@@ -790,6 +790,12 @@ saveinter.net##HTML
 ||payamshop.com^
 ||hamkaran.biz^
 !
+||mediacdn.mediaad.org^
+||digikala.api.useinsider.com^
+||plus.sabavision.com^
+||cdn.sanjagh.com^
+||s1.mediaad.org^
+!
 ----------POPuprules-----------
 ||90darajeh.net^$popup
 ||facenama.com^$image,popup
